@@ -1,6 +1,6 @@
-###Compiling and running the program from the command line. Building the executable jar file.
+### Compiling and running the program from the command line. Building the executable jar file.
 
-####In case the project does not use an external library, it will look like this:
+#### In case the project does not use an external library, it will look like this:
  1) Compiling and running : 
 
 >javac com\chekan\*.java
@@ -13,7 +13,7 @@
 > 
 > java -jar JarProjectM.jar
 
-####If the project uses an external library, it will look like this:
+#### If the project uses an external library, it will look like this:
 1) Compiling and running :
 
 >javac -cp C:\Users\user\IdeaProjects\commons-collections4-4.4.jar com\chekan\*.java
