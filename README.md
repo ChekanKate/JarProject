@@ -3,7 +3,7 @@
 #### In case the project does not use an external library, it will look like this:
  1) Compiling and running : 
 
->javac com\chekan\*.java
+>javac com\chekan\\*.java
 > 
 > java com.chekan.TestClass
 
