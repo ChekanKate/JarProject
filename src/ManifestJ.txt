@@ -1,0 +1,2 @@
+Main-Class: com.chekan.TestClass
+Class-Path: commons-collections4-4.4.jar
