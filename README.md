@@ -25,6 +25,7 @@
 We first create a text file named ManifestJ.txt with the following contents:
 
 > Main-Class: com.chekan.TestClass
+>
 > Class-Path: commons-collections4-4.4.jar
 
 We then create a JAR file named MyJar2.jar by entering the following command:
